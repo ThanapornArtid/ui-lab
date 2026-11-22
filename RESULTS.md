@@ -49,7 +49,7 @@ tool: "Scissors"
 calories: 575
 - Step 4.7, the line of the admin list that shows your pizza:Lab Pizza 20261123-013015 (tool=Pizza cutter, ingredients_number=6) (newest)
 - Step 4.8, run 1, result, duration and pizza name:All specs passed, 00:10, Lab Pizza 20261123-013303
-- Step 4.8, run 2, result, duration and pizza name:
+- Step 4.8, run 2, result, duration and pizza name:All specs passed, 00:10, Lab Pizza 20261123-013526
 - Step 4.9 (optional), browser and result:
 
 ## Part B
