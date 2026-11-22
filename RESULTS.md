@@ -10,17 +10,16 @@ Tool parts that I chose: Part 3 Robot Framework and Part 4 Cypress
 - Step 0.4, locator of Excluded tools:select
 - Step 0.4, locator of Must be vegetarian:#default-checkbox
 - Step 0.4, locator of Custom Pizza Name:input#pizza-name
-- Step 0.5, pizza name, tool and calories of the run by hand:
+- Step 0.5, pizza name, tool and calories of the run by hand: Lab pizza 20261122 (tool=Scissors, ingredients_number=6, Calories 450)
 
 | Step | Actual result | Pass or fail |
 |------|---------------|--------------|
-| 1    |               |              |
-| 2    |               |              |
-| 3    |               |              |
-| 4    |               |              |
-| 5    |               |              |
-| 6    |               |              |
-| 7    |               |              |
+| 1    | Looking to break out of your pizza routine? | Pass |
+| 2    | Four advanced fields appeared | Pass |
+| 3    | Showed  Lab pizza 20261122 ,Scissors ,450 calories per slice | Pass |
+| 5    | Please log in first | Pass |
+| 6    | Showed "Latest pizza recommendations" | Pass |
+| 7    | Showed my pizza name with tool=Scissors and ingredients_number| Pass |
 
 ## Part 3: Robot Framework
 
