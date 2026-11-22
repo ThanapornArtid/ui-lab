@@ -31,6 +31,13 @@ Tool parts that I chose: Part 3 Robot Framework and Part 4 Cypress
 ## Part 4: Cypress
 
 - node --version, npm --version and npx cypress version:
+Cypress Version: 16.2.1 (stable)
+System Platform: darwin (macOS - 26.6.2)
+System Memory: 17.2 GB free 414 MB
+Cypress package version: 16.2.1
+Cypress binary version: 16.2.1
+Electron version: 41.7.0
+Bundled Node version: 24.15.0
 - Step 4.3, failure message for the wrong title:
 - Step 4.6, tool and calories in the answer of POST /api/pizza:
 - Step 4.7, the line of the admin list that shows your pizza:
