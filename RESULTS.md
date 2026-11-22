@@ -45,6 +45,8 @@ Timed out retrying after 10000ms
       -'Web form'
       +'Web for jaaa'
 - Step 4.6, tool and calories in the answer of POST /api/pizza:
+tool: "Scissors"
+calories: 575
 - Step 4.7, the line of the admin list that shows your pizza:
 - Step 4.8, run 1, result, duration and pizza name:
 - Step 4.8, run 2, result, duration and pizza name:
