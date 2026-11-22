@@ -47,7 +47,7 @@ Timed out retrying after 10000ms
 - Step 4.6, tool and calories in the answer of POST /api/pizza:
 tool: "Scissors"
 calories: 575
-- Step 4.7, the line of the admin list that shows your pizza:
+- Step 4.7, the line of the admin list that shows your pizza:Lab Pizza 20261123-013015 (tool=Pizza cutter, ingredients_number=6) (newest)
 - Step 4.8, run 1, result, duration and pizza name:
 - Step 4.8, run 2, result, duration and pizza name:
 - Step 4.9 (optional), browser and result:
